@@ -1,0 +1,9 @@
+﻿  JsonArray.cpp
+  JsonBool.cpp
+  JsonInt.cpp
+  JsonNull.cpp
+  JsonNumber.cpp
+  JsonObject.cpp
+  JsonString.cpp
+  JsonType.cpp
+  JsonParser.vcxproj -> C:\projects\LgVideoChatDemo\x64\Release\JsonParser.lib

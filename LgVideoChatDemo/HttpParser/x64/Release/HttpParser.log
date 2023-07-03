@@ -1,0 +1,11 @@
+﻿  HttpDomainCookie.cpp
+  HttpHeader.cpp
+  HttpMessage.cpp
+  HttpMultipart.cpp
+  HttpPacket.cpp
+  HttpParameter.cpp
+  HttpParameterList.cpp
+  HttpSetCookie.cpp
+  HttpStatusCode.cpp
+  HttpUri.cpp
+  HttpParser.vcxproj -> C:\projects\LgVideoChatDemo\x64\Release\HttpParser.lib

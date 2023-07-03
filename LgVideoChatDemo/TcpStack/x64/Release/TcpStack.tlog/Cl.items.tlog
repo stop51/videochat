@@ -1,0 +1,12 @@
+C:\projects\LgVideoChatDemo\TcpStack\FileLogSetup.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\FileLogSetup.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpClientMap.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpClientMap.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpClientThread.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpClientThread.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpListenThread.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpListenThread.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpNoPipeThread.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpNoPipeThread.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpPipeThread.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpPipeThread.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpSessionList.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpSessionList.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpSessionMap.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpSessionMap.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpStack.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpStack.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpStackSetup.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpStackSetup.obj
+C:\projects\LgVideoChatDemo\TcpStack\TcpThreadList.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TcpThreadList.obj
+C:\projects\LgVideoChatDemo\TcpStack\TlsFunction.cpp;C:\projects\LgVideoChatDemo\TcpStack\x64\Release\TlsFunction.obj

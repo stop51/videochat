@@ -1,0 +1,15 @@
+C:\projects\LgVideoChatDemo\SipPlatform\Base64.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\Base64.obj
+C:\projects\LgVideoChatDemo\SipPlatform\Directory.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\Directory.obj
+C:\projects\LgVideoChatDemo\SipPlatform\FileLog.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\FileLog.obj
+C:\projects\LgVideoChatDemo\SipPlatform\FileUtility.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\FileUtility.obj
+C:\projects\LgVideoChatDemo\SipPlatform\Log.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\Log.obj
+C:\projects\LgVideoChatDemo\SipPlatform\MonitorString.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\MonitorString.obj
+C:\projects\LgVideoChatDemo\SipPlatform\ServerUtility.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\ServerUtility.obj
+C:\projects\LgVideoChatDemo\SipPlatform\SipMd5.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\SipMd5.obj
+C:\projects\LgVideoChatDemo\SipPlatform\SipMutex.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\SipMutex.obj
+C:\projects\LgVideoChatDemo\SipPlatform\SipTcp.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\SipTcp.obj
+C:\projects\LgVideoChatDemo\SipPlatform\SipUdp.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\SipUdp.obj
+C:\projects\LgVideoChatDemo\SipPlatform\StringMap.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\StringMap.obj
+C:\projects\LgVideoChatDemo\SipPlatform\StringUtility.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\StringUtility.obj
+C:\projects\LgVideoChatDemo\SipPlatform\TimeString.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\TimeString.obj
+C:\projects\LgVideoChatDemo\SipPlatform\TimeUtility.cpp;C:\projects\LgVideoChatDemo\SipPlatform\x64\Release\TimeUtility.obj

@@ -1,0 +1,10 @@
+C:\projects\LgVideoChatDemo\HttpParser\HttpDomainCookie.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpDomainCookie.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpHeader.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpHeader.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpMessage.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpMessage.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpMultipart.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpMultipart.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpPacket.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpPacket.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpParameter.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpParameter.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpParameterList.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpParameterList.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpSetCookie.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpSetCookie.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpStatusCode.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpStatusCode.obj
+C:\projects\LgVideoChatDemo\HttpParser\HttpUri.cpp;C:\projects\LgVideoChatDemo\HttpParser\x64\Release\HttpUri.obj

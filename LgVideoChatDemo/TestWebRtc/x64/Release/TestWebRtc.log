@@ -1,0 +1,15 @@
+﻿  WebRtcServer.cpp
+C:\projects\LgVideoChatDemo\TestWebRtc\WebRtcServer.cpp(114,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\projects\LgVideoChatDemo\TestWebRtc\WebRtcServer.cpp(717,63): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\projects\LgVideoChatDemo\TestWebRtc\WebRtcServer.cpp(741,64): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     C:\projects\LgVideoChatDemo\x64\Release\TestWebRtc.lib 라이브러리 및 C:\projects\LgVideoChatDemo\x64\Release\TestWebRtc.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 2569 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TestWebRtc.vcxproj -> C:\projects\LgVideoChatDemo\x64\Release\TestWebRtc.exe

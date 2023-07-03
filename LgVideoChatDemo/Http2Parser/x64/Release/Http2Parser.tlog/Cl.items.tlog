@@ -1,0 +1,9 @@
+C:\projects\LgVideoChatDemo\Http2Parser\Http2Conversion.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2Conversion.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2Frame.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2Frame.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2FrameList.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2FrameList.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2Header.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2Header.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2HpackHeader.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2HpackHeader.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2HpackHeaderList.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2HpackHeaderList.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2HuffmanCode.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2HuffmanCode.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2Packet.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2Packet.obj
+C:\projects\LgVideoChatDemo\Http2Parser\Http2Settings.cpp;C:\projects\LgVideoChatDemo\Http2Parser\x64\Release\Http2Settings.obj
